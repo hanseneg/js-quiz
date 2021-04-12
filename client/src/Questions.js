@@ -1,8 +1,8 @@
-import React, { useState, useEffect, useContext } from './node_modules/react'
-import axios from "./node_modules/axios"
+import React, { useState, useEffect, useContext } from 'react'
+import axios from "axios"
 import QuestionsForm from "./QuestionsForm"
 import {UserContext} from "./UserContext.js"
-import { useHistory } from "./node_modules/react-router-dom"
+import { useHistory } from "react-router-dom"
 
 function Questions(props) {
     const [questions, setQuestions] = useState([])
