@@ -41,6 +41,10 @@ app.listen(PORT, () => {
     console.log(`Running on Port ${PORT}`)
 })
 
+//pw jsquiz
+
+//mongodb+srv://hanseneg:jsquiz@cluster0.8bnb9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 
 /* [
     {user: "John", score: 5},
