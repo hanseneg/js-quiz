@@ -43,6 +43,8 @@ app.listen(PORT, () => {
 
 //pw jsquiz
 
+//mongorestore --uri mongodb+srv://hanseneg:jsquiz@cluster0.8bnb9.mongodb.net 
+
 //mongodb+srv://hanseneg:jsquiz@cluster0.8bnb9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 
