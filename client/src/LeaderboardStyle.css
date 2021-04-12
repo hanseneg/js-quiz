@@ -1,0 +1,38 @@
+/*Leaderboard */
+
+.leaderboard h1, .leaderboard h2{
+    text-align: center;
+}
+
+.leaderboard h2 {
+    font-size: 25px;
+}
+
+.score {
+    border: 2px solid #323330;
+    margin: 5px;
+    box-sizing: border-box;
+    width: 99%;
+    background-color: white;
+    text-align: left;
+}
+
+.user-score {
+    border: 2px solid #323330;
+    margin: 5px;
+    box-sizing: border-box;
+    width: 99%;
+    background-color: white;
+    text-align: left;
+}
+
+.score h3, .user-score h3{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.score p, .user-score p {
+    display: block;
+    padding-right: 50px;
+    float: right;
+}
